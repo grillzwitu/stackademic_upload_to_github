@@ -1,0 +1,14 @@
+.light {
+    background-color: blanchedalmond;
+}
+
+.dark {
+    background-color: brown;
+}
+
+button {
+    border: thin solid aqua ;
+    border-radius: 10px;
+    background-color: aqua;
+    cursor: pointer;
+}
